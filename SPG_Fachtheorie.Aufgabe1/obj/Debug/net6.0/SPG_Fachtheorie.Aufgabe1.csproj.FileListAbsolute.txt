@@ -1,0 +1,14 @@
+C:\Scratch\Aufgabe1\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.deps.json
+C:\Scratch\Aufgabe1\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.runtimeconfig.json
+C:\Scratch\Aufgabe1\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.dll
+C:\Scratch\Aufgabe1\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.pdb
+C:\Users\hasan\OneDrive\Desktop\SPG_Fachtheorie\SPG_Fachtheorie.Aufgabe1\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Desktop\SPG_Fachtheorie\SPG_Fachtheorie.Aufgabe1\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Desktop\SPG_Fachtheorie\SPG_Fachtheorie.Aufgabe1\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Desktop\SPG_Fachtheorie\SPG_Fachtheorie.Aufgabe1\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Desktop\SPG_Fachtheorie\SPG_Fachtheorie.Aufgabe1\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Desktop\SPG_Fachtheorie\SPG_Fachtheorie.Aufgabe1\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.dll
+C:\Users\hasan\OneDrive\Desktop\SPG_Fachtheorie\SPG_Fachtheorie.Aufgabe1\obj\Debug\net6.0\refint\SPG_Fachtheorie.Aufgabe1.dll
+C:\Users\hasan\OneDrive\Desktop\SPG_Fachtheorie\SPG_Fachtheorie.Aufgabe1\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.pdb
+C:\Users\hasan\OneDrive\Desktop\SPG_Fachtheorie\SPG_Fachtheorie.Aufgabe1\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Desktop\SPG_Fachtheorie\SPG_Fachtheorie.Aufgabe1\obj\Debug\net6.0\ref\SPG_Fachtheorie.Aufgabe1.dll
