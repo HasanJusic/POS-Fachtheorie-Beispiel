@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9VjbOaPXNAvy1vDFExBbLCIAkyzfc5DgZbTHJ5n+aoljUEU1zgZu3Nj5RYJ4+iBGX4Eidz5HFsdrwQ2PRQa6BA==",
+  "dgSpecHash": "sfnGJO56ThC3cA5Rh/zjg4QUMeUTo03XQQL70IGAyFVMniJxitu4f2E81opQDBa9G8hUWBfVcBBMoIuTrak+cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hasan\\OneDrive\\Desktop\\SPG_Fachtheorie\\SPG_Fachtheorie.Aufgabe3RazorPages\\SPG_Fachtheorie.Aufgabe3RazorPages.csproj",
+  "projectFilePath": "C:\\Users\\hasan\\OneDrive\\Dokumente\\GitHub\\POS-Fachtheorie-Beispiel\\SPG_Fachtheorie.Aufgabe3RazorPages\\SPG_Fachtheorie.Aufgabe3RazorPages.csproj",
   "expectedPackageFiles": [
     "C:\\Scratch\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Scratch\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

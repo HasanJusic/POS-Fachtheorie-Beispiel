@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+UnQ7akt8GbO51vbT9ZkOmGbLexg8w3iTFFGxgx0AL+9xsjJiWQ+fsHLtZUybfEJ5wXhC5fl2RTidSVIfPTmXw==",
+  "dgSpecHash": "G96K4ffBYe413bNbN4wAHsLGf3PRit4SFD1tnIgahOrGfDPMcuu2E5cnSVEUOf2jaw8oo73uDJl/vHpfcR22TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hasan\\OneDrive\\Desktop\\SPG_Fachtheorie\\SPG_Fachtheorie.Aufgabe2.Test\\SPG_Fachtheorie.Aufgabe2.Test.csproj",
+  "projectFilePath": "C:\\Users\\hasan\\OneDrive\\Dokumente\\GitHub\\POS-Fachtheorie-Beispiel\\SPG_Fachtheorie.Aufgabe2.Test\\SPG_Fachtheorie.Aufgabe2.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Scratch\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Scratch\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

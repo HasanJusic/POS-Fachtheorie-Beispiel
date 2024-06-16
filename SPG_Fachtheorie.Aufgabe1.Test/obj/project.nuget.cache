@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wd9H2MnGle5sezUY9pk+c3ifaL5qVvakVjH5QJ03b7zNwBxXO7DeYvahIDiQyYD34RLFfmvK93jfMnpRt2lcDQ==",
+  "dgSpecHash": "1gaW0SGBvhSlETZ6pglGLOezy8ClHMRg99JjYf5K0HUCVhvf9bJVtJQgLBK22V0Ha9dN8GySHm3E510uHWN+mQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hasan\\OneDrive\\Desktop\\SPG_Fachtheorie\\SPG_Fachtheorie.Aufgabe1.Test\\SPG_Fachtheorie.Aufgabe1.Test.csproj",
+  "projectFilePath": "C:\\Users\\hasan\\OneDrive\\Dokumente\\GitHub\\POS-Fachtheorie-Beispiel\\SPG_Fachtheorie.Aufgabe1.Test\\SPG_Fachtheorie.Aufgabe1.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Scratch\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Scratch\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

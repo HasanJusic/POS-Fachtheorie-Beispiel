@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hasan\\OneDrive\\Desktop\\SPG_Fachtheorie\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj": {}
+    "C:\\Users\\hasan\\OneDrive\\Dokumente\\GitHub\\POS-Fachtheorie-Beispiel\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hasan\\OneDrive\\Desktop\\SPG_Fachtheorie\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj": {
+    "C:\\Users\\hasan\\OneDrive\\Dokumente\\GitHub\\POS-Fachtheorie-Beispiel\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hasan\\OneDrive\\Desktop\\SPG_Fachtheorie\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj",
+        "projectUniqueName": "C:\\Users\\hasan\\OneDrive\\Dokumente\\GitHub\\POS-Fachtheorie-Beispiel\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj",
         "projectName": "SPG_Fachtheorie.Aufgabe1",
-        "projectPath": "C:\\Users\\hasan\\OneDrive\\Desktop\\SPG_Fachtheorie\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj",
+        "projectPath": "C:\\Users\\hasan\\OneDrive\\Dokumente\\GitHub\\POS-Fachtheorie-Beispiel\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj",
         "packagesPath": "C:\\Scratch\\packages",
-        "outputPath": "C:\\Users\\hasan\\OneDrive\\Desktop\\SPG_Fachtheorie\\SPG_Fachtheorie.Aufgabe1\\obj\\",
+        "outputPath": "C:\\Users\\hasan\\OneDrive\\Dokumente\\GitHub\\POS-Fachtheorie-Beispiel\\SPG_Fachtheorie.Aufgabe1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hasan\\OneDrive\\Desktop\\SPG_Fachtheorie\\NuGet.Config",
+          "C:\\Users\\hasan\\OneDrive\\Dokumente\\GitHub\\POS-Fachtheorie-Beispiel\\NuGet.Config",
           "C:\\Users\\hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
